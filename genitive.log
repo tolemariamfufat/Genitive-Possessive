@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.25)  23 SEP 2022 15:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.25)  5 OCT 2022 19:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -23,6 +23,50 @@ File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
+(/usr/share/texlive/texmf-dist/tex/latex/linguex/linguex.sty
+Package: linguex 2013/05/28 Example formatting for linguistics v. 4.3
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/gb4e/cgloss4e.sty
+\lineone=\box50
+\linetwo=\box51
+\linethree=\box52
+\wordone=\box53
+\wordtwo=\box54
+\wordthree=\box55
+\gline=\box56
+\glossglue=\skip49
+)
+\c@ExNo=\count193
+\c@SubExNo=\count194
+\c@SubSubExNo=\count195
+\c@FnExNo=\count196
+\c@ABC=\count197
+\currentlabel=\skip50
+\lessthanten=\skip51
+\lessthanhundred=\skip52
+\lessthanthousand=\skip53
+\@Exleftmargin=\skip54
+\Exlabelwidth=\skip55
+\Extopsep=\skip56
+\Exindent=\skip57
+\SubExleftmargin=\skip58
+\SubSubExleftmargin=\skip59
+\Exlabelsep=\skip60
+\alignSubExnegindent=\skip61
+\Exredux=\skip62
+\digitwidth=\skip63
+\mindigitwidth=\skip64
+\c@ExDepth=\count198
+\c@TempExDepth=\count199
+\CollectTokens=\toks16
+LaTeX Info: Redefining \b on input line 307.
+LaTeX Info: Redefining \c on input line 311.
+LaTeX Info: Redefining \d on input line 313.
+\c@tmpaEx=\count266
+)
 (/usr/share/texmf/tex/latex/tipa/tipa.sty
 Package: tipa 2002/08/08 TIPA version 1.1
 
@@ -36,12 +80,12 @@ Now handling font encoding T3 ...
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/apacite/apacite.sty
 Package: apacite 2013/07/21 v6.03 APA citation
-\c@BibCnt=\count193
-\bibleftmargin=\skip49
-\bibindent=\skip50
-\bibparsep=\skip51
-\bibitemsep=\skip52
-\biblabelsep=\skip53
+\c@BibCnt=\count267
+\bibleftmargin=\skip65
+\bibindent=\skip66
+\bibparsep=\skip67
+\bibitemsep=\skip68
+\biblabelsep=\skip69
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pslatex/pslatex.sty
 Package: pslatex 2021/01/13 v1.3 pslatex emulation (DPC)
@@ -80,46 +124,46 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 )
 (/usr/share/texlive/texmf-dist/tex/latex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
-\thanksmarkwidth=\skip54
-\thanksmargin=\skip55
-\droptitle=\skip56
+\thanksmarkwidth=\skip70
+\thanksmargin=\skip71
+\droptitle=\skip72
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count194
-\l__pdf_internal_box=\box50
+\l__color_backend_stack_int=\count268
+\l__pdf_internal_box=\box57
 )
 (./genitive.aux)
 \openout1 = `genitive.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 9.
 LaTeX Font Info:    Trying to load font information for OMS+pzccm on input line
- 8.
+ 9.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omspzccm.fd
 File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
 )
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 8.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 8.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 9.
 
 
 (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 8.
-\c@maskedRefs=\count195
+LaTeX Font Info:    ... okay on input line 9.
+\c@maskedRefs=\count269
 
 (/usr/share/texlive/texmf-dist/tex/latex/apacite/english.apc
 File: english.apc 2013/07/21 v6.03 apacite language file
@@ -127,76 +171,258 @@ LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptmcm on input line
- 16.
+ 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptmcm.fd
 File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ptmcm on input line
- 16.
+ 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlptmcm.fd
 File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+psycm on input line
- 16.
+ 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxpsycm.fd
 File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
-
- []
-
-[1
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+LaTeX Warning: Citation `ELTcon' undefined on input line 35.
+
+
+LaTeX Warning: Citation `rosenbach2006descriptive' undefined on input line 35.
+
+
+LaTeX Warning: Citation `gebregziabher2012alienable' undefined on input line 35
+.
+
+
+LaTeX Warning: Citation `greenlee1950genitive' undefined on input line 38.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--43
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
 
  []
 
-[2] [3] [4] (./genitive.bbl
-Overfull \hbox (190.31055pt too wide) in paragraph at lines 133--140
-[]\OT1/ptm/m/it/10.95 What is gen-i-tive case?  \OT1/ptm/m/n/10.95 (n.d.[]).  \
-OT1/pcr/m/n/10.95 https://www.eltconcourse.com/training/inservice/lexicogrammar
-/genitive.html\OT1/ptm/m/n/10.95 .
- []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--140
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
 
  []
 
-) [5] [6] (./genitive.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+
+ []
+
+LaTeX Font Info:    Trying to load font information for T3+ptm on input line 11
+9.
+(/usr/share/texmf/tex/latex/tipa/t3ptm.fd
+File: t3ptm.fd 2001/12/31 TIPA font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
+
+ []
+
+
+LaTeX Font Warning: Font shape `T3/ptm/m/it' in size <10.95> not available
+(Font)              Font shape `T3/ptm/m/sl' tried instead on input line 120.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+[5]
+
+LaTeX Warning: Citation `gragg1976oromo' undefined on input line 179.
+
+
+LaTeX Warning: Citation `gobena2019verb' undefined on input line 179.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+
+LaTeX Warning: Citation `owens1985grammar' undefined on input line 185.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--189
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--199
+
+ []
+
+[6] [7] [8] [9]
+Overfull \hbox (15.37593pt too wide) in paragraph at lines 375--376
+[]\OT1/ptm/m/n/10.95 ARE DE-SCRIP-TIVE GEN-I-TIVES SYN-TAC-TIC PHRASES OR COM-P
+OUNDS? 
+ []
+
+
+Overfull \hbox (2.74945pt too wide) in paragraph at lines 422--423
+[]\OT1/ptm/m/n/10.95 HOW DO DE-SCRIP-TIVE GEN-I-TIVES DIF-FER FROM N + N SE-QUE
+NCES?
+ []
+
+[10] [11] [12] [13] [14]
+Overfull \hbox (8.64325pt too wide) in paragraph at lines 648--651
+[]\OT1/ptm/m/n/10.95 3rd per-son sin-gu-lar mas-cu-line (all di-alects isaa (kt
+aabasaa) isaa (kun ki-taabasaati) 
+ []
+
+[15] [16] (./genitive.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [17]
+Underfull \hbox (badness 10000) in paragraph at lines 673--679
+
+ []
+
+[18] (./genitive.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2316 strings out of 478287
- 32237 string characters out of 5849289
- 325323 words of memory out of 5000000
- 20527 multiletter control sequences out of 15000+600000
- 493155 words of font info for 71 fonts, out of 8000000 for 9000
+ 2628 strings out of 478287
+ 36793 string characters out of 5849289
+ 330744 words of memory out of 5000000
+ 20821 multiletter control sequences out of 15000+600000
+ 495230 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,67p,1408b,212s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base
-/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
-s/type1/urw/times/utmri8a.pfb>
-Output written on genitive.pdf (6 pages, 63562 bytes).
+ 55i,6n,67p,742b,352s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
+/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.
+pfb></usr/share/texmf/fonts/type1/fkr/tipa/xipa10.pfb></usr/share/texmf/fonts/t
+ype1/fkr/tipa/xipasl10.pfb>
+Output written on genitive.pdf (18 pages, 96682 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+ 93 PDF objects out of 1000 (max. 8388607)
+ 60 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
