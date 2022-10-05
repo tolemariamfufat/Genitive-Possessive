@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.25)  22 SEP 2022 12:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.25)  23 SEP 2022 15:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -151,32 +151,52 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
 
  []
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./genitive.bbl
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
+ []
 
-) [2] [3] (./genitive.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+[2] [3] [4] (./genitive.bbl
+Overfull \hbox (190.31055pt too wide) in paragraph at lines 133--140
+[]\OT1/ptm/m/it/10.95 What is gen-i-tive case?  \OT1/ptm/m/n/10.95 (n.d.[]).  \
+OT1/pcr/m/n/10.95 https://www.eltconcourse.com/training/inservice/lexicogrammar
+/genitive.html\OT1/ptm/m/n/10.95 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--140
+
+ []
+
+) [5] [6] (./genitive.aux) ) 
 Here is how much of TeX's memory you used:
- 2291 strings out of 478287
- 31820 string characters out of 5849289
- 318323 words of memory out of 5000000
- 20507 multiletter control sequences out of 15000+600000
- 489540 words of font info for 65 fonts, out of 8000000 for 9000
+ 2316 strings out of 478287
+ 32237 string characters out of 5849289
+ 325323 words of memory out of 5000000
+ 20527 multiletter control sequences out of 15000+600000
+ 493155 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,67p,167b,212s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,6n,67p,1408b,212s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base
-/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on genitive.pdf (3 pages, 23463 bytes).
+/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
+s/type1/urw/times/utmri8a.pfb>
+Output written on genitive.pdf (6 pages, 63562 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
- 15 compressed objects within 1 object stream
+ 44 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

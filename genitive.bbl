@@ -1,3 +1,141 @@
 \begin{thebibliography}{}
 
+\bibitem [\protect \citeauthoryear {%
+Gebregziabher%
+}{%
+Gebregziabher%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+gebregziabher2012alienable}
+\APACinsertmetastar {%
+gebregziabher2012alienable}%
+\begin{APACrefauthors}%
+Gebregziabher, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The alienable-inalienable asymmetry: Evidence from
+  Tigrinya} {The alienable-inalienable asymmetry: Evidence from
+  tigrinya}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Selected Proceedings of the 42nd Annual Conference on
+  African Linguistics} {Selected proceedings of the 42nd annual conference on
+  african linguistics}\ (\BPGS\ 161--182).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gobena%
+, Hagos%
+\BCBL {}\ \BBA {} Meyer%
+}{%
+Gobena%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+gobena2019verb}
+\APACinsertmetastar {%
+gobena2019verb}%
+\begin{APACrefauthors}%
+Gobena, W\BPBI O.%
+, Hagos, D.%
+\BCBL {}\ \BBA {} Meyer, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The verb k’ab-in Oromo} {The verb k’ab-in
+  oromo}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{ZENA-LISSAN (Journal of Academy of Ethiopian Languages
+  and Cultures)}{28}{1}{102--131}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gragg%
+}{%
+Gragg%
+}{%
+{\protect \APACyear {1976}}%
+}]{%
+gragg1976oromo}
+\APACinsertmetastar {%
+gragg1976oromo}%
+\begin{APACrefauthors}%
+Gragg, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1976}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Oromo of Wollega} {Oromo of wollega}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Non-Semitic Languages of Ethiopia}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Owens%
+}{%
+Owens%
+}{%
+{\protect \APACyear {1985}}%
+}]{%
+owens1985grammar}
+\APACinsertmetastar {%
+owens1985grammar}%
+\begin{APACrefauthors}%
+Owens, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1985}.
+\newblock
+\APACrefbtitle {A grammar of Harar Oromo (Northeastern ethiopia)} {A grammar of
+  harar oromo (northeastern ethiopia)}\ (\BVOL~4).
+\newblock
+\APACaddressPublisher{}{Buske}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vassiliadis%
+}{%
+Vassiliadis%
+}{%
+{\protect \APACyear {1985}}%
+}]{%
+vassiliadis1985translation}
+\APACinsertmetastar {%
+vassiliadis1985translation}%
+\begin{APACrefauthors}%
+Vassiliadis, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1985}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Translation of Martyria I{\=e}sou in Revelation}
+  {The translation of martyria i{\=e}sou in revelation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Bible Translator}{36}{1}{129--134}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {{What is genitive case?}}}{%
+\APACcitebtitle {{What is genitive case?}}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+ELT}
+\APACinsertmetastar {%
+ELT}%
+\APACrefbtitle {{What is genitive case?}} {{What is genitive case?}}
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APAChowpublished
+  {\url{https://www.eltconcourse.com/training/inservice/lexicogrammar/genitive.html}}.
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}
