@@ -2,12 +2,6 @@ This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: genitive.aux
 The style file: apacite.bst
-I couldn't open database file genitive.bib
----line 28 of file genitive.aux
- : \bibdata{genitive
- :                  }
-I'm skipping whatever remains of this command
-I found no database files---while reading file genitive.aux
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
@@ -17,53 +11,46 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Warning--I didn't find a database entry for "ELTcon"
-Warning--I didn't find a database entry for "rosenbach2006descriptive"
-Warning--I didn't find a database entry for "gebregziabher2012alienable"
-Warning--I didn't find a database entry for "greenlee1950genitive"
-Warning--I didn't find a database entry for "gragg1976oromo"
-Warning--I didn't find a database entry for "gobena2019verb"
-Warning--I didn't find a database entry for "owens1985grammar"
+Database file #1: genitive.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 0 entries,
+You've used 7 entries,
             6951 wiz_defined-function locations,
-            1275 strings with 10768 characters,
-and the built_in function-call counts, 43 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 1
-:= -- 32
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
+            1309 strings with 11643 characters,
+and the built_in function-call counts, 10412 in all, are:
+= -- 1328
+> -- 75
+< -- 385
++ -- 372
+- -- 12
+* -- 596
+:= -- 1724
+add.period$ -- 30
+call.type$ -- 7
+change.case$ -- 106
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 14
+duplicate$ -- 253
+empty$ -- 508
+format.name$ -- 102
+if$ -- 2134
 int.to.chr$ -- 0
-int.to.str$ -- 0
+int.to.str$ -- 21
 missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+newline$ -- 156
+num.names$ -- 48
+pop$ -- 257
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 26
 quote$ -- 0
-skip$ -- 1
+skip$ -- 778
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 419
+swap$ -- 172
+text.length$ -- 21
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 0
+type$ -- 648
 warning$ -- 0
-while$ -- 0
+while$ -- 40
 width$ -- 0
-write$ -- 2
-(There were 2 error messages)
+write$ -- 178

@@ -1,3 +1,167 @@
 \begin{thebibliography}{}
 
+\bibitem [\protect \citeauthoryear {%
+Gebregziabher%
+}{%
+Gebregziabher%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+gebregziabher2012alienable}
+\APACinsertmetastar {%
+gebregziabher2012alienable}%
+\begin{APACrefauthors}%
+Gebregziabher, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The alienable-inalienable asymmetry: Evidence from
+  Tigrinya} {The alienable-inalienable asymmetry: Evidence from
+  tigrinya}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Selected Proceedings of the 42nd Annual Conference on
+  African Linguistics} {Selected proceedings of the 42nd annual conference on
+  african linguistics}\ (\BPGS\ 161--182).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {The Genitive in English}}{%
+\APACcitebtitle {The Genitive in English}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+ELTcon}
+\APACinsertmetastar {%
+ELTcon}%
+\APACrefbtitle {The Genitive in English.} {The genitive in english.}
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APAChowpublished
+  {\url{https://www.eltconcourse.com/training/inservice/lexicogrammar/genitive.html}}.
+\newblock
+\APACrefnote{Accessed:2022-09-30}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gobena%
+, Hagos%
+\BCBL {}\ \BBA {} Meyer%
+}{%
+Gobena%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+gobena2019verb}
+\APACinsertmetastar {%
+gobena2019verb}%
+\begin{APACrefauthors}%
+Gobena, W\BPBI O.%
+, Hagos, D.%
+\BCBL {}\ \BBA {} Meyer, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The verb k’ab-in Oromo} {The verb k’ab-in
+  oromo}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{ZENA-LISSAN (Journal of Academy of Ethiopian Languages
+  and Cultures)}{28}{1}{102--131}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gragg%
+}{%
+Gragg%
+}{%
+{\protect \APACyear {1976}}%
+}]{%
+gragg1976oromo}
+\APACinsertmetastar {%
+gragg1976oromo}%
+\begin{APACrefauthors}%
+Gragg, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1976}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Oromo of Wollega} {Oromo of wollega}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Non-Semitic Languages of Ethiopia}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Greenlee%
+}{%
+Greenlee%
+}{%
+{\protect \APACyear {1950}}%
+}]{%
+greenlee1950genitive}
+\APACinsertmetastar {%
+greenlee1950genitive}%
+\begin{APACrefauthors}%
+Greenlee, J\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1950}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Genitive Case in the New Testament} {The genitive
+  case in the new testament}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Bible Translator}{1}{2}{68--70}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Owens%
+}{%
+Owens%
+}{%
+{\protect \APACyear {1985}}%
+}]{%
+owens1985grammar}
+\APACinsertmetastar {%
+owens1985grammar}%
+\begin{APACrefauthors}%
+Owens, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1985}.
+\newblock
+\APACrefbtitle {A grammar of Harar Oromo (Northeastern ethiopia)} {A grammar of
+  harar oromo (northeastern ethiopia)}\ (\BVOL~4).
+\newblock
+\APACaddressPublisher{}{Buske}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rosenbach%
+}{%
+Rosenbach%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+rosenbach2006descriptive}
+\APACinsertmetastar {%
+rosenbach2006descriptive}%
+\begin{APACrefauthors}%
+Rosenbach, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Descriptive genitives in English: a case study on
+  constructional gradience} {Descriptive genitives in english: a case study on
+  constructional gradience}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{English Language \& Linguistics}{10}{1}{77--118}.
+\PrintBackRefs{\CurrentBib}
+
 \end{thebibliography}
