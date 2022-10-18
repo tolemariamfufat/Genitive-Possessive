@@ -1,6 +1,31 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Bulcha%
+}{%
+Bulcha%
+}{%
+{\protect \APACyear {1997}}%
+}]{%
+bulcha1997politics}
+\APACinsertmetastar {%
+bulcha1997politics}%
+\begin{APACrefauthors}%
+Bulcha, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The politics of linguistic homogenization in Ethiopia
+  and the conflict over the status of Afaan Oromoo} {The politics of linguistic
+  homogenization in ethiopia and the conflict over the status of afaan
+  oromoo}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{African affairs}{96}{384}{325--352}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Gebregziabher%
 }{%
 Gebregziabher%
@@ -24,24 +49,6 @@ Gebregziabher, K.%
 \BIn{} \APACrefbtitle {Selected Proceedings of the 42nd Annual Conference on
   African Linguistics} {Selected proceedings of the 42nd annual conference on
   african linguistics}\ (\BPGS\ 161--182).
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-\APACcitebtitle {The Genitive in English}}{%
-\APACcitebtitle {The Genitive in English}}{%
-{\protect \APACyear {{\protect \bibnodate {}}}}%
-}]{%
-ELTcon}
-\APACinsertmetastar {%
-ELTcon}%
-\APACrefbtitle {The Genitive in English.} {The genitive in english.}
-\newblock
-\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
-\newblock
-\APAChowpublished
-  {\url{https://www.eltconcourse.com/training/inservice/lexicogrammar/genitive.html}}.
-\newblock
-\APACrefnote{Accessed:2022-09-30}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
