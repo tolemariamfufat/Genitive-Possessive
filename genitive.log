@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.25)  18 OCT 2022 14:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.25)  19 OCT 2022 11:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -835,33 +835,73 @@ Underfull \hbox (badness 10000) in paragraph at lines 1110--1110
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1116--1116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1125--1125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
+
+ []
+
 [28]
-Overfull \hbox (13.0949pt too wide) in paragraph at lines 1135--1144
+Underfull \hbox (badness 10000) in paragraph at lines 1138--1138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1144--1144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1160--1160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1166--1166
+
+ []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 1204--1204
+
+ []
+
+[30]
+Overfull \hbox (13.0949pt too wide) in paragraph at lines 1226--1235
 \OT1/ptm/m/n/10.95 tional Re-gional State' Mana Mur-tii Wali-igalaa Oromiyaa 'S
 upreme Court of Oromiya' 
  []
 
-
-Overfull \hbox (8.64325pt too wide) in paragraph at lines 1184--1187
+[31]
+Overfull \hbox (8.64325pt too wide) in paragraph at lines 1275--1278
 []\OT1/ptm/m/n/10.95 3rd per-son sin-gu-lar mas-cu-line (all di-alects isaa (kt
 aabasaa) isaa (kun ki-taabasaati) 
  []
 
-[29] [30] (./genitive.bbl) [31]
-Underfull \hbox (badness 10000) in paragraph at lines 1209--1219
+[32] (./genitive.bbl) [33]
+Underfull \hbox (badness 10000) in paragraph at lines 1300--1310
 
  []
 
-[32] (./genitive.aux)
+[34] (./genitive.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2628 strings out of 478287
- 36857 string characters out of 5849289
+ 2634 strings out of 478287
+ 36950 string characters out of 5849289
  332744 words of memory out of 5000000
- 20824 multiletter control sequences out of 15000+600000
+ 20830 multiletter control sequences out of 15000+600000
  494377 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,6n,67p,976b,352s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -870,10 +910,10 @@ e/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/t
 imes/utmri8a.pfb></usr/share/texmf/fonts/type1/fkr/tipa/xipa10.pfb></usr/share/
 texmf/fonts/type1/fkr/tipa/xipasl10.pfb>
-Output written on genitive.pdf (32 pages, 99291 bytes).
+Output written on genitive.pdf (34 pages, 102608 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
+ 139 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

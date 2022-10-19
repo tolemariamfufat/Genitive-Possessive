@@ -19,45 +19,46 @@ I was expecting a `,' or a `}'---line 5 of file gen.bib
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "ELTcon"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 7 entries,
+Warning--No journal in fufatypes
+You've used 9 entries,
             6951 wiz_defined-function locations,
-            1316 strings with 11717 characters,
-and the built_in function-call counts, 11321 in all, are:
-= -- 1424
-> -- 85
-< -- 477
-+ -- 461
-- -- 14
-* -- 681
-:= -- 2010
-add.period$ -- 30
-call.type$ -- 7
-change.case$ -- 120
+            1324 strings with 11918 characters,
+and the built_in function-call counts, 14376 in all, are:
+= -- 1811
+> -- 105
+< -- 619
++ -- 594
+- -- 18
+* -- 860
+:= -- 2580
+add.period$ -- 38
+call.type$ -- 9
+change.case$ -- 154
 chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 264
-empty$ -- 497
-format.name$ -- 116
-if$ -- 2232
+cite$ -- 19
+duplicate$ -- 323
+empty$ -- 627
+format.name$ -- 144
+if$ -- 2829
 int.to.chr$ -- 0
-int.to.str$ -- 21
+int.to.str$ -- 27
 missing$ -- 0
-newline$ -- 161
-num.names$ -- 56
-pop$ -- 208
+newline$ -- 205
+num.names$ -- 72
+pop$ -- 271
 preamble$ -- 1
-purify$ -- 28
+purify$ -- 36
 quote$ -- 0
-skip$ -- 844
+skip$ -- 1063
 stack$ -- 0
-substring$ -- 511
-swap$ -- 187
-text.length$ -- 22
+substring$ -- 654
+swap$ -- 222
+text.length$ -- 26
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 624
-warning$ -- 0
-while$ -- 44
+type$ -- 784
+warning$ -- 1
+while$ -- 54
 width$ -- 0
-write$ -- 181
+write$ -- 229
 (There was 1 error message)
